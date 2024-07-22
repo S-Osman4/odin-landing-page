@@ -23,6 +23,8 @@ This project is a landing page inspired by Jojo Part 5, showcasing information a
 
 ## Demonstration
 
+Link to [live deployement]()
+
 ![Landing Page Demo](/odin-landing-page.jpeg)
 
 ## Skills Demonstrated
